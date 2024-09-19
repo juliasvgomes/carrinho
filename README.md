@@ -9,7 +9,7 @@
 
 >Projeto construído no curso de ReactJS.
 
-[Link para acessar](https://juliasvgomes.github.io/ecommerce/)
+[Link para acessar](https://carrinho-topaz.vercel.app/store)
 
 
 ## Tecnologias 
